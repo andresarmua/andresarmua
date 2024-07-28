@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @andresarmua
-- 👀 I’m interested in machine learning, digital audio, digital signal processing
-- 🌱 I’m currently learning digital signal processing
-- 💞️ I’m looking to collaborate on open-source audio plugins
+- 👀 I’m a data engineering and data analyst proficient in dbt
+- 🌱 I love wide range of topics such as Maths, Physics, Audio Engineering and Digital Marketing
+- 💞️ I’m looking to collaborate on open-source projects to gain proficiency as a developer
 - 📫 How to reach me: andresarmua@gmail.com
 
 <!---
