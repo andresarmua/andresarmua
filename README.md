@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @andresarmua
 - 👀 I’m a data engineer and data analyst proficient in dbt, python, bigquery and other gcp data tools
 - 🌱 I love wide range of topics such as Maths, Physics, Audio Engineering and Digital Marketing
-- 💞️ I’m looking to collaborate on open-source projects to gain proficiency as a developer
 - 📫 How to reach me: andresarmua@gmail.com
 
 <!---
